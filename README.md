@@ -1,4 +1,4 @@
-# test_app
+# dice_app
 
 A new Flutter project.
 
